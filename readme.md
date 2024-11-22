@@ -13,7 +13,7 @@ Soy un desarrollador de software apasionado. Me encanta trabajar en proyectos in
 ### 🌱 Actualmente aprendiendo:
 
 ### 📚 Proyectos destacados:
-
+- **[DuckyPayloads-Esp]([https://github.com/sachamark/DuckyPayloads-Esp])**: Script para poder usar rubber duckys hechos con raspberry pi pico en sistemas windows.
 
 ### 📍 Ubicación: 
 - Resido en **Barcelona, España**.
@@ -24,10 +24,6 @@ Soy un desarrollador de software apasionado. Me encanta trabajar en proyectos in
 
 ## 💬 ¿Te gustaría colaborar o contribuir?
 Soy un firme creyente en el poder de la **colaboración** en el desarrollo de software. Si tienes alguna idea de proyecto o si deseas contribuir a uno de mis proyectos, no dudes en abrir un **issue** o **pull request**.
-
-### 📦 Mis Repositorios más populares:
-
----
 
 ## 🌟 Otras cosas que hago:
 
